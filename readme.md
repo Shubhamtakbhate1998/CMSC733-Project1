@@ -1,8 +1,7 @@
 
 This project has following 3 parts
 
-Hybrid Image </br>
+1.Hybrid Image <</br>>
 Pyramid Image </br>
 Image pyramid </br>
-.
 
