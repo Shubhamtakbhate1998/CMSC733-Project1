@@ -1,5 +1,5 @@
 
-please use the image provided for the pyramid task
+This project has following 3 parts
 
 Hybrid Image </br>
 Pyramid Image </br>
